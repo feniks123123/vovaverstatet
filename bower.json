@@ -1,0 +1,20 @@
+{
+  "name": "Site2",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "soullolzx <35201452+soullolzx@users.noreply.github.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}

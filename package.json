@@ -1,0 +1,31 @@
+{
+  "name": "Site2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-hot-reload": "^1.2.4",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-sourcemaps": "^2.6.3",
+    "gulpfile.js": "^2.0.0",
+    "imagemin-pngquant": "^5.0.1",
+    "touch": "^3.1.0"
+  },
+  "devDependencies": {
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-bower": "0.0.13",
+    "gulp-clean-css": "^3.9.2",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-watch": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
